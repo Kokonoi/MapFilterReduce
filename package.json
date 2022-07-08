@@ -1,7 +1,7 @@
 {
-  "name": "map-filter-reduce",
+  "name": "completed",
   "version": "1.0.0",
-  "description": "",
+  "description": "Map/Filter/Reduce/Find/FindIndex",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
